@@ -1,4 +1,4 @@
-module github.com/Kuchin-Egor-A/game/rpn
+module github.com/Kuchin-Egor-A/rpn
 
 go 1.23.0
 

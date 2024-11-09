@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Kuchin-Egor-A/game/rpn/pkg/rpn"
+	"github.com/Kuchin-Egor-A/rpn/pkg/rpn"
 )
 
 type Application struct {

@@ -2,7 +2,7 @@ package rpn_test
 
 // Так как это другой пакет, нужно его импортировать
 import (
-	"github.com/Kuchin-Egor-A/game/pkg/rpn"
+	"github.com/Kuchin-Egor-A/rpn/pkg/rpn"
 	"testing"
 )
 ```
@@ -12,9 +12,8 @@ import (
 package rpn_test
 
 import (
-"testing"
-
-rpn "github.com/aivanov/rpn/pkg"
+	"testing"
+	rpn "github.com/Kuchin-Egor-A/game/rpn/pkg"
 )
 
 func TestCalc(t *testing.T) {

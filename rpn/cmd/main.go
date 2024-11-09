@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Kuchin-Egor-A/game/rpn/internal/application"
+	"github.com/Kuchin-Egor-A/rpn/internal/application"
 )
 
 func main() {
